@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="fake_waypoint" type="fake_waypoint.py" name="Fake_Waypoint"  output="screen">
+  </node>
+</launch>
